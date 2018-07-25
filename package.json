@@ -1,0 +1,28 @@
+{
+  "name": "get-func-parameters",
+  "version": "1.0.0",
+  "description": "get the function parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearzoe/get-func-parameters.git"
+  },
+  "keywords": [
+    "get",
+    "func",
+    "parameters",
+    "getParameters",
+    "getParams",
+    "getFuncParams",
+    "getFuncParameters"
+  ],
+  "author": "wenzhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dearzoe/get-func-parameters/issues"
+  },
+  "homepage": "https://github.com/dearzoe/get-func-parameters#readme"
+}
